@@ -151,5 +151,6 @@ o High GI → Blood sugar spike
 
 5. Find out Total Veg and Non-veg calories.
 
-<img width="1258" height="638" alt="Diabetes Nutrition   Glycemic Control Project Analysis Dashboard" src="https://github.com/user-attachments/assets/7880d63c-9498-4c7f-9570-e530c646bc7c" />
+![Diabetes Nutrition   Glycemic Control Project Analysis Dashboard2](https://github.com/user-attachments/assets/7a56e93e-eddb-463c-bcc1-18e23f5e0980)
+
 
